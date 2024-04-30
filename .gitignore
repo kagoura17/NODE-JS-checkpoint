@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file (if you're using dotenv or similar)
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Build files
+dist/
+build/
+*.tgz
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE files
+*.sublime-project
+*.sublime-workspace
